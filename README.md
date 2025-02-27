@@ -1,5 +1,5 @@
 <p align="justify">
-ExpensesAppWinForms is a simple yet functional expense-tracking application built with C# and SQLite using Windows Forms. This project started as my first foray into WinForms, and surprisingly, it turned out to be a really enjoyable experience.
+Expense Manager is a simple yet functional expense-tracking application built with C# and SQLite using Windows Forms. This project started as my first foray into WinForms, and surprisingly, it turned out to be a really enjoyable experience.
 
 At first, I thought designing the UI would be a major challenge—I wanted something clean and straightforward, without unnecessary clutter. After several iterations and refinements, I finally landed on a layout that feels intuitive and gets the job done. Version 1.0 definitely gets a pass in that regard!
 </p>

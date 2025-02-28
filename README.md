@@ -10,7 +10,7 @@ Adding entries:
 
 Filtering by date:
 
-![image](https://github.com/user-attachments/assets/0fda04b4-faee-4565-9bcb-a09cd5645247)
+![image](https://github.com/user-attachments/assets/9d100869-bcb0-46e7-9ce6-75caada8f175)
 
 Filtering by vendor:
 
